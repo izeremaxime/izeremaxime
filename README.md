@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm [Maxime]
 
-<!--
-**izeremaxime/izeremaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer focused on web development, UI/UX design, and building clean, functional, and user-friendly digital experiences. 
+I enjoy turning creative ideas into reality through code and design.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Front-End: HTML, CSS, JavaScript, React
+🎨 Design: Figma, Photoshop, Illustrator
+🛠️ Tools: Git, GitHub, VS Code
+🌱 Currently learning: Node.js, Express, MongoDB
+
+Portfolio Website – My personal website showcasing my work and skills.
+my Portifolior website: zoomextraction
+
+📫 Let's Connect
+
+Portfolio: https://sites.google.com/view/zoomextractions?usp=sharing
+LinkedIn: https://www.linkedin.com/in/izere-maxime-15975a323/
+Email: izeremaxime1@gmail.com
